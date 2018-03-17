@@ -1,6 +1,6 @@
 package me.Yankeefan002.mc.First.init;
 
-import me.Yankeefan002.mc.First.FirstMod;
+import me.Yankeefan002.First.Refrence;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.resources.model.ModelResourceLocation;
 import net.minecraft.item.Item;
@@ -26,7 +26,7 @@ public class FirstIteams {
 
 	public static void registerRender(Item item)
 	{
-		Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(item, 0, new ModelResourceLocation(FirstMod.modid + ";" + item.getUnlocalizedName().substring(5), "inventory"));
+		Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(item, 0, new ModelResourceLocation(Refrence.MOD_ID + ";" + item.getUnlocalizedName().substring(5), "inventory"));
 	}
 
 }
