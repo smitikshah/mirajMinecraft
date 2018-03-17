@@ -26,7 +26,7 @@ public class FirstBlocks {
 
 	public static void registerRenders() 
 	{
-		
+		registerRender(Monkey_Block);
 	}
 	public static void registerRender(Block block) 
 	{
