@@ -13,7 +13,6 @@ public class FirstIteams {
 	
 	public static void init() {
 		first_item = new Item().setUnlocalizedName("first_item"); 
-			
 			}
 	public static void register()
 	{
