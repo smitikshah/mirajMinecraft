@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "FM:blocks/Monkey_Block"
+	}
+}
