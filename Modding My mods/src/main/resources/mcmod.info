@@ -1,0 +1,16 @@
+[
+{
+  "modid": "First",
+  "name": "First Mod",
+  "description": "My First Mod",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Yankeefan002 (Shaduf)"],
+  "credits": "Sub to Miraj Shah",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
