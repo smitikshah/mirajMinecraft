@@ -1,7 +1,7 @@
 package me.Yankeefan002.First;
 
 import me.Yankeefan002.mc.First.init.FirstIteams;
-import me.Yankeefan002.mc.First.proxy.CommonProxy;
+
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 
